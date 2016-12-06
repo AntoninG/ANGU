@@ -1,0 +1,19 @@
+{
+  "name": "@ANGU/iut-encrypt",
+  "version": "1.0.0",
+  "description": "iut-encrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoninG/ANGU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoninG/ANGU/issues"
+  },
+  "homepage": "https://github.com/AntoninG/ANGU#readme"
+}
