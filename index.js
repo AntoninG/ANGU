@@ -1,3 +1,4 @@
-/**
- * Created by Antonin on 06/12/2016.
- */
+const encrypt = require('./iut-encrypt');
+
+// Encode password 'password' with sha1 algorithm
+console.log(encrypt.encodeSha1('password'));
