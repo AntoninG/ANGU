@@ -1,4 +1,3 @@
-const encrypt = require('./iut-encrypt');
+'use strict';
 
-// Encode password 'password' with sha1 algorithm
-console.log(encrypt.encodeSha1('password'));
+const encrypt = require('./iut-encrypt');
