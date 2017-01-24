@@ -1,3 +1,3 @@
 'use strict';
 
-const encrypt = require('./iut-encrypt');
+module.exports = require('./iut-encrypt');
